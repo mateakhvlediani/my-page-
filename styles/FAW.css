@@ -1,0 +1,146 @@
+body {
+    background-color: #F6F5F2;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+header {
+    padding-top: 21px;
+    padding-left: 120px;
+}
+html {
+    scroll-behavior: smooth;
+}
+.header {
+    padding-right: 43.5px;
+}
+
+li {
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    float: right;
+}
+.name {
+    display: inline-block;
+    font-weight: 700;
+    vertical-align: middle;
+    margin-bottom: 45px;
+}
+
+.contacts {
+    margin-left: 43px;
+    color: #25282B;
+    font-size: 20px;
+}
+
+.projects {
+    margin-left: 43px;
+    color: #25282B;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.about {
+    color: #25282B;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+    color: #25282B;
+    margin-bottom: 0px;
+}
+
+.footertext {
+    text-align: center;
+    font-size: 16px;
+    color: #828282;
+    font-weight: 400;
+}
+.footerimg {
+    width: 100%;
+}
+.text {
+    font-size: 24px;
+    font-weight: 400;
+    color: #828282;
+    width: 588px;
+    height: 144px;
+    margin-left: 120px;
+    margin-top: 0px;
+    vertical-align: middle;
+}
+.h1 {
+    color: #25282B;
+    font-weight: 700;
+    font-size: 74px;
+    margin-top: 84px;
+    margin-left: 120px;
+    margin-bottom: 32px;
+    display: inline-block;
+}
+.div1 {
+    display: inline-block;
+}
+
+.HRA1 {
+    float: right;
+    margin-top: 112px;
+    margin-right: 112px;
+}
+
+.text10 {
+    font-size: 24px;
+    font-weight: 400;
+    color: #828282;
+    width: 588px;
+    height: 144px;
+    float: right;
+}
+
+.text11 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #25282B;
+    float: right;
+    margin-right: 385px;
+}
+
+.text12 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #25282B;
+    float: right;
+    margin-right: 362px;
+}
+
+.text13 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #25282B;
+    float: right;
+    margin-right: 323px;
+}
+
+.features {
+    margin-right: 126px;
+    margin-top: 38px;
+}
+
+.text15 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #25282B;
+    float: right;
+    margin-right: 367px;
+}
+

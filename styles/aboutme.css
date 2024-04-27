@@ -1,0 +1,173 @@
+body {
+    background-color: #F6F5F2;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+header {
+    padding-top: 21px;
+    padding-left: 120px;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+.header {
+    padding-right: 43.5px;
+}
+
+li {
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    float: right;
+}
+
+.name {
+    display: inline-block;
+    font-weight: 700;
+    vertical-align: middle;
+    margin-bottom: 45px;
+}
+
+.contacts {
+    margin-left: 43px;
+    color: #25282B;
+    font-size: 20px;
+}
+
+.projects {
+    margin-left: 43px;
+    color: #25282B;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.about {
+    color: #25282B;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 150px;
+    text-align: center;
+    color: #25282B;
+    margin-bottom: 0px;
+}
+
+.footertext {
+    text-align: center;
+    font-size: 16px;
+    color: #828282;
+    font-weight: 400;
+}
+
+.h1 {
+    color: #25282B;
+    font-weight: 700;
+    font-size: 74px;
+    margin-top: 84px;
+    margin-left: 120px;
+    margin-bottom: 32px;
+    display: inline-block;
+}
+
+.text {
+    font-size: 24px;
+    font-weight: 400;
+    color: #828282;
+    width: 588px;
+    height: 144px;
+    margin-left: 120px;
+    margin-top: 0px;
+    vertical-align: middle;
+}
+
+.doctor {
+    margin-left: 86px;
+    float: right;
+    vertical-align: middle;
+}
+
+.div1 {
+    display: inline-block;
+}
+
+.section1 {
+    display: inline-block;
+}
+
+section {
+    display: inline-block;
+}
+
+.footerimg {
+    width: 100%;
+}
+
+.footerimgs1 {
+	display: block;
+	margin: 0 auto;
+}
+
+.text3 {
+	display: block;
+	margin-right: 356px;
+	font-size: 21px;
+	font-weight: 600;
+	margin-bottom: 8px;
+}
+
+.text4 {
+	display: block;
+	margin-right: 356px;
+	font-size: 21px;
+	font-weight: 600;
+	margin-bottom: 8px;
+	margin-top: 24px;
+}
+.text1 {
+	width: 400px;
+	height: 40px;
+	border-radius: 7px;
+}
+
+.footerimg1 {
+	margin-bottom: 80px;
+}
+
+.text5 {
+	width: 400px;
+	height: 160px;
+	border-radius: 7px;
+	margin-bottom: 24px;
+}
+
+.text2 {
+	display: block;
+	margin-right: 332px;
+	font-size: 21px;
+	font-weight: 600;
+	margin-bottom: 8px;
+	margin-top: 24px;
+}
+
+.submit {
+	display: block;
+	margin: 0 auto;
+	width: 89px;
+	height: 43px;
+	color: #25282B;
+	background-color: #FDC435;
+	border-radius: 10px;
+	margin-left: 948px;
+	margin-bottom: 56px;
+}
